@@ -11,7 +11,7 @@
 1. 安装依赖
 npm install
 2. 使用 
-ch-cli create [options] <app-name> 创建远程模板
+labor-cli create [options] <app-name> 创建远程模板
 
 ### 获取github信息api
 1. 获取用户信息        https://api.github.com/users/
